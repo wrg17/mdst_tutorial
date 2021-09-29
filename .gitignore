@@ -1,0 +1,7 @@
+env/**
+data/**
+tutorial1/**
+tutorial2/**
+__pycache__
+.ipynb_checkpoints
+requirements.txt
